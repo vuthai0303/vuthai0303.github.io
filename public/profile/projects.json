@@ -1,0 +1,96 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "video" : "videos/projects/GiupViec.mp4",
+            "title": "GiupViec App",
+            "bodyText": "- It is a system that assists in finding and connecting domestic helpers with clients.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/nctins/GiupViecTV"
+                },
+                {
+                    "text": "App",
+                    "href": "https://drive.google.com/drive/folders/1Htkvz60TQ3ErCn1YjyE_j4SNPDza_4fW?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Android",
+                "React Native",
+                "ReactJs",
+                "NodeJs",
+                "ExpressJs"
+            ]
+        },
+        {
+            "image" : "images/projects/ShootTankBg.jpg",
+            "video" : "videos/projects/shootTank.mp4",
+            "title": "Shoot Tank",
+            "bodyText": "- It is a game project improved from tutorial",
+            "links": [
+                {
+                    "text": "Game",
+                    "href": "https://drive.google.com/drive/folders/1fxdNBQpShF2a-81LihIzfAP_zoU9bOhD?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Unity3D",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/ShootingGame.png",
+            "video" : "videos/projects/ShootingGame.mp4",
+            "title": "Shooter game",
+            "bodyText": "- It is a Shoot’em up game. \n - Use Unity's Data-Oriented Technology Stack (DOTS)",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/vuthai0303/Shooting_DOTS"
+                }
+            ],
+            "tags" : [
+                "DOTS",
+                "ECS",
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/ChessGame.png",
+            "video" : "videos/projects/ChessGame.mp4",
+            "title": "Tank Chess",
+            "bodyText": "- It is a Chess game. \n - Use Unity's Data-Oriented Technology Stack (DOTS)",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/vuthai0303/Chess_DOTS"
+                }
+            ],
+            "tags" : [
+                "DOTS",
+                "ECS",
+                "Unity",
+                "C#"
+            ]
+        },
+        {
+            "image" : "images/projects/SurvivalGame.png",
+            "video" : "videos/projects/SurvivalGame.mp4",
+            "title": "Survival Game",
+            "bodyText": "- It is a Survival game mobile. \n - in Progress",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/vuthai0303/SurvivalGame"
+                }
+            ],
+            "tags" : [
+                "Unity2D",
+                "C#",
+                "Mobile Game"
+            ]
+        }
+    ]
+}

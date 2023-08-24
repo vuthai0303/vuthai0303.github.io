@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "facebook",
+            "href": "https://www.facebook.com/vuprodtkt"
+        },
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/v%C5%A9-th%C3%A1i-duy-43b016277/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/vuthai0303"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:vuthai15032k@gmail.com"
+        }
+    ]
+}
